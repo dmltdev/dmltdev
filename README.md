@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dmytro
-- 👀 I’m interested in web development, graphic design and software testing
-- 🌱 I’m currently learning JavaScript and automation tools (Selenium, Postman, Cypress)
+- 👀 I’m interested in web development and graphic design
+- 🌱 I’m currently learning JavaScript (ES6, DSA) and CSS (LESS, SASS, Bootstrap, Tailwind)
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me: @matthewmonroe on Telegram; LinkedIn:https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/
+- Telegram: @matthewmonroe; 
+- LinkedIn:https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/
