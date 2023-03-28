@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm an aspiring Ukrainian learning full stack web development. <br>My aim is to build beautiful, functional websites and applications that solve real-world problems. 
+Hi there! I'm an aspiring Ukrainian learning backend development. <br>My aim is to build beautiful, functional websites and applications that solve real-world problems. 
 
 
 ## 🌐 Socials:
