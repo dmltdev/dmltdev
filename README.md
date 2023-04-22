@@ -1,5 +1,4 @@
 My aim is to build beautiful, functional websites and applications that solve real-world problems. 
-Currently learning JavaScript and PHP using QDD/EDD (Question/Error-Driven Development).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/)  
