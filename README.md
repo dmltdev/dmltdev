@@ -1,4 +1,5 @@
-My aim is to build beautiful, functional websites and applications that solve real-world problems. 
+"Broke, the web developer went, why?
+Because their aim was, build beautiful, functional websites and applications that solve real-world problems... but all their time, searching for the perfect font, they spent!"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/)  
