@@ -2,7 +2,7 @@
 Because their aim was to build beautiful, functional websites and applications that solve real-world problems... but all their time, searching for the perfect font, they spent!" © Yoda
 
 ### LeetCode & CodeWars:
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmatthewmonroe&logo=leetcode&logoColor=yellow)](https://leetcode.com/user0094g/)  
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmatthewmonroe&logo=leetcode&logoColor=yellow)](https://leetcode.com/matthewmonroe/)  
 [![CodeWars](https://www.codewars.com/users/MatthewMonroe/badges/micro)](https://www.codewars.com/users/MatthewMonroe/)
 
 ### 🌐 Socials:
