@@ -1,6 +1,8 @@
 "Broke, the web developer went, why?
 Because their aim was to build beautiful, functional websites and applications that solve real-world problems... but all their time, searching for the perfect font, they spent!"
 
+![Roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643ce1cde2725773748fc7d9?variant=light&roadmaps=javascript%2Ctypescript%2Creact)
+
 ### LeetCode & CodeWars:
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmatthewmonroe&logo=leetcode&logoColor=yellow)](https://leetcode.com/matthewmonroe/)  
 [![CodeWars](https://www.codewars.com/users/MatthewMonroe/badges/micro)](https://www.codewars.com/users/MatthewMonroe/)
@@ -19,6 +21,7 @@ Because their aim was to build beautiful, functional websites and applications t
 #### Programming:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
