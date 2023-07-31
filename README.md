@@ -4,8 +4,9 @@ Because their aim was to build beautiful, functional websites and applications t
 ![Roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643ce1cde2725773748fc7d9?variant=light&roadmaps=javascript%2Ctypescript%2Creact)
 
 ### LeetCode & CodeWars:
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmatthewmonroe&logo=leetcode&logoColor=yellow)](https://leetcode.com/matthewmonroe/)  
-[![CodeWars](https://www.codewars.com/users/MatthewMonroe/badges/micro)](https://www.codewars.com/users/MatthewMonroe/)
+[![CodeWars](https://www.codewars.com/users/MatthewMonroe/badges/micro)](https://www.codewars.com/users/MatthewMonroe/)<br>
+[![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/matthewmonroe/)
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/)
