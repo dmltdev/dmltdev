@@ -1,12 +1,12 @@
 "Broke, the web developer went, why?
 Because their aim was to build beautiful, functional websites and applications that solve real-world problems... but all their time, searching for the perfect font, they spent!"
 <br><br>
-[![CodeWars](https://www.codewars.com/users/MatthewMonroe/badges/large)](https://www.codewars.com/users/MatthewMonroe/)<br>
+[![CodeWars](https://www.codewars.com/users/MatthewMonroe/badges/large)](https://www.codewars.com/users/dmltdev/)<br>
 [![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/matthewmonroe/)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/matthewmonroe)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmltdev)
 
 ### 💻 Tech Stack:
 #### Markup:
