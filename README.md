@@ -1,7 +1,7 @@
 "Broke, the web developer went, why?
 Because their aim was to build beautiful, functional websites and applications that solve real-world problems... but all their time, searching for the perfect font, they spent!"
 <br><br>
-[![CodeWars](https://www.codewars.com/users/MatthewMonroe/badges/large)](https://www.codewars.com/users/dmltdev/)<br>
+[![CodeWars](https://www.codewars.com/users/dmltdev/badges/large)](https://www.codewars.com/users/dmltdev/)<br>
 [![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/matthewmonroe/)
 
 ### 🌐 Socials:
