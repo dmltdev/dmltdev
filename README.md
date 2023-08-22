@@ -18,7 +18,7 @@ Having a knack for writing technical documentation and how-to guides, my portfol
 **I am open to new job opportunities as a frontend developer**, so you can write me on [LinkedIn](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/) or [Telegram](https://t.me/kraddyreckle).
 
 ---
-[![CodeWars](https://www.codewars.com/users/dmlt/badges/large)<br>
+[![CodeWars](https://www.codewars.com/users/dmlt/badges/large)](https://www.codewars.com/users/dmlt/)<br>
 [![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/matthewmonroe/)
 
 Tech stack [August 2023]:
