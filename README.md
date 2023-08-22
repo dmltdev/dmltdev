@@ -1,7 +1,10 @@
 Welcome! 👋🏼 
-I'm a Junior Frontend Developer passionate about crafting clean, efficient, and well-tested code that tackles real-world challenges head-on. As an INTJ-T personality type, with  analytical thinking and strategic vision, I am capable to bring valuable changes and consistent results to your projects. With expertise in JavaScript, TypeScript, Sass, and React, I'm on a mission to create impactful web experiences.
+I'm a Junior Frontend Developer passionate about crafting clean, efficient, and well-tested code that tackles real-world challenges head-on. As an INTJ-T personality type, with  analytical thinking and strategic vision, I am able to bring valuable changes and consistent results to your projects. You can learn more about my personality in my reviews [here](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/).
 
+With expertise in JavaScript, TypeScript, Sass, and React, I'm on a mission to create impactful web experiences.
 When it comes to coding, my approach is all about simplicity and performance. Drawing inspiration from Scrum, Agile, and Kanban methodologies, I prioritize tasks based on their priority and severity, ensuring that I optimize my time for the most impactful outcomes. You won't find me getting lost in the rabbit hole of font choices – I believe in keeping things practical and focused on delivering practical solutions.
+
+I am an active listener and open-minded person freely accepting any feedback. I am also open to new job opportunities, so you can write me on [LinkedIn](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/) or [Telegram](https://t.me/kraddyreckle).
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -15,7 +18,7 @@ When it comes to coding, my approach is all about simplicity and performance. Dr
 [![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/matthewmonroe/)
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/)
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmltdev)
 
 #### Programming
