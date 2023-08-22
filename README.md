@@ -1,5 +1,5 @@
 Welcome! 👋🏼 
-I'm a Junior Frontend Developer passionate about crafting clean, efficient, and well-tested code that tackles real-world challenges head-on. As an INTJ-T personality type, with  analytical thinking and strategic vision, I am able to bring valuable changes and consistent results to your projects. You can learn more about my personality in my recommendations [here](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/).
+I'm a Junior Frontend Developer passionate about crafting clean, efficient, and well-tested code that tackles real-world challenges head-on. As an [INTJ-T](https://www.16personalities.com/intj-personality) personality type, with  analytical thinking and strategic vision, I am able to bring valuable changes and consistent results to your projects. You can learn more about my personality in my recommendations [here](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/).
 
 With expertise in JavaScript, TypeScript, Sass, React, and NodeJS, I'm on a mission to create impactful web experiences.
 
