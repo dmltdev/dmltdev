@@ -21,7 +21,7 @@ Having a knack for writing technical documentation and how-to guides, my portfol
 [![CodeWars](https://www.codewars.com/users/dmlt/badges/large)](https://www.codewars.com/users/dmlt/)<br>
 [![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/matthewmonroe/)
 
-Tech stack [August 2023]:
+### Tech stack [August 2023]:
 - Proficient in HTML5, CSS3 (with CSS BEM), Sass
 - Strong JavaScript [ES6+]. Task runners (Gulp), module bundlers (Webpack), linters (ESLInt).
 - Fundamental TypeScript
@@ -30,7 +30,7 @@ Tech stack [August 2023]:
 - Proficient in Git & GitHub
 - fundamental SQL
 
-Below, I want to outline additional skills I possess:
+### Below, I want to outline additional skills I possess:
 - Essential experience with PHP 8
 - Extensive expertise in SSL/TLS, DNS, and Hosting
 - Skilled in Adobe Photoshop, Illustrator, Figma, and GIMP.
@@ -39,8 +39,6 @@ Below, I want to outline additional skills I possess:
 - Basic experience using AWS EC2 and Google Cloud Platform
 - Linux installation, setup, and management (Archlinux, Ubuntu, Fedora, CentOS)
 - fundamental experience with Docker (building LAMP containers)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dmltdev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
