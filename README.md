@@ -13,7 +13,7 @@ When it comes to coding, my approach is all about simplicity and performance. Dr
 
 Proficient in solving algorithmic and data structure-related problems, you can explore my solutions to various challenges on [Codewars](https://www.codewars.com/users/dmlt/) and [LeetCode](https://leetcode.com/matthewmonroe/).
 
-Having a knack for writing technical documentation and how-to guides, my portfolio includes over 5 major internal articles that were written for my employer. These resources served as crucial procedures, guidelines, and manuals, benefiting departments consisting of **50 to 2000 members**.
+Having a knack for writing technical documentation and how-to guides, my portfolio includes over 5 major internal articles that were written for my employer. These resources serve as crucial procedures, guidelines, and manuals, benefiting departments consisting of **50 to 2000 members**.
 
 **I am open to new job opportunities as a frontend developer**, so you can write me on [LinkedIn](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/) or [Telegram](https://t.me/kraddyreckle).
 
