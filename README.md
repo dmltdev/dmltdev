@@ -1,7 +1,7 @@
 Welcome! 👋🏼 
 I'm a Junior Frontend Developer passionate about crafting clean, efficient, and well-tested code that tackles real-world challenges head-on. As an [INTJ-T](https://www.16personalities.com/intj-personality) personality type possessing analytical thinking and strategic vision, I am able to bring valuable changes and consistent results to your projects. You can learn more about my personality in my recommendations [here](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/).
 
-With expertise in JavaScript, TypeScript, Sass, React, and NodeJS, I'm on a mission to create impactful web experiences.
+With a passion for JavaScript, TypeScript, Sass, React, and NodeJS, I'm doing my best to create amazing web experiences.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
