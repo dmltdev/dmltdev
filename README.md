@@ -1,5 +1,5 @@
 Welcome! 👋🏼 
-I'm a Junior Frontend Developer passionate about crafting clean, efficient, and well-tested code that tackles real-world challenges head-on. As an [INTJ-T](https://www.16personalities.com/intj-personality) personality type possessing analytical thinking and strategic vision, I am able to bring valuable changes and consistent results to your projects. You can learn more about my personality in my recommendations [here](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/).
+I'm a Junior Frontend Developer passionate about building clean, efficient, and well-tested code that tackles real-world challenges head-on. As an [INTJ-T](https://www.16personalities.com/intj-personality) personality type possessing analytical thinking and strategic vision, I am able to bring valuable changes and consistent results to your projects. You can learn more about my personality in my recommendations [here](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/).
 
 With a passion for JavaScript, TypeScript, Sass, React, and NodeJS, I'm doing my best to create amazing web experiences.
 
@@ -9,7 +9,7 @@ With a passion for JavaScript, TypeScript, Sass, React, and NodeJS, I'm doing my
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-When it comes to coding, my approach is all about simplicity and performance. Drawing inspiration from Scrum, Agile, and Kanban methodologies, I prioritize tasks and duties based on their priority and severity, ensuring that I optimize my time for the most impactful outcomes. You won't find me getting lost in the rabbit hole of font choices – I believe in keeping things practical and focused on delivering practical solutions. 
+When it comes to coding, my approach is all about simplicity and performance. Drawing inspiration from Scrum, Agile, and Kanban methodologies, I prioritize tasks and duties based on their priority and severity, ensuring that I optimize my time for the most impactful outcomes. You won't find me getting lost in the rabbit hole of font choices – I believe in keeping things practical and focused on delivering practical solutions.
 
 Proficient in solving algorithmic and data structure-related problems, you can explore my solutions to various challenges on [Codewars](https://www.codewars.com/users/dmlt/) and [LeetCode](https://leetcode.com/matthewmonroe/).
 
@@ -21,14 +21,15 @@ Having a knack for writing technical documentation and how-to guides, my portfol
 [![CodeWars](https://www.codewars.com/users/dmlt/badges/large)](https://www.codewars.com/users/dmlt/)<br>
 [![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/matthewmonroe/)
 
-### Tech stack [August 2023]:
+### Tech stack [September 2023]:
 - Proficient in HTML5, CSS3 (with CSS BEM), Sass
-- Strong JavaScript [ES6+]. Task runners (Gulp), module bundlers (Webpack), linters (ESLInt).
+- Strong JavaScript [ES6+]. Task runners (Gulp), module bundlers (Webpack), linters (ESLInt)
 - Fundamental TypeScript
-- basic React (props, state, hooks)
+- Basic React (props, state, hooks)
 - Unit testing (Jest), API testing (Postman)
+- Experienced with Rest APIs
 - Proficient in Git & GitHub
-- fundamental SQL
+- Fundamental SQL
 
 ### Below, I want to outline additional skills I possess:
 - Essential experience with PHP 8
