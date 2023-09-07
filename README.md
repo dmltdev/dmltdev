@@ -27,7 +27,7 @@ Having a knack for writing technical documentation and how-to guides, my portfol
 - Fundamental TypeScript
 - Basic React (props, state, hooks)
 - Unit testing (Jest), API testing (Postman)
-- Experienced with Rest APIs
+- Experienced with REST APIs
 - Proficient in Git & GitHub
 - Fundamental SQL
 
