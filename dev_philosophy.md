@@ -3,6 +3,8 @@
 ## Simplicity
 
 * Keep it small and simple: Simplicity should be a key goal in design, and unnecessary complexity should be avoided.
+* Simplicity is hard to build, easy to use, and hard to change for.
+* Complexity is easy to build, hard to use, and easy to change for.
 
 ## Modularity
 
