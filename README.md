@@ -2,11 +2,12 @@
 
 🌟 **Key Skills**: JavaScript, TypeScript, Sass, React, NodeJS
 
-🧠 **Personality**: INTJ-T, analytical thinking, strategic vision
+🧠 **Personality**: INTJ-T, analytical thinking, strategic vision. [My dev philosophy](https://github.com/dmltdev/dmltdev/dev_philosophy.md)
 
 📚 **Coding Challenges**: Check out my solutions on [LeetCode](https://leetcode.com/matthewmonroe/) and [Codewars](https://www.codewars.com/users/dmlt/).
 
 📝 **Technical Documentation**: I specialize in writing clear and effective technical documentation and how-to guides.
+
 
 🤙 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/).
 
