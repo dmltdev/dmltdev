@@ -27,10 +27,10 @@
 - Fundamental SQL;
 
 ### Concepts, principles, philosophy, computer science:
-- conventional commits & commitlinters;
+- Conventional commits & commitlinters;
 - Unix philosophy;
 - OOP, SOLID, DRY, KISS, YAGNI;
-- data structures and algorithms;
+- Data structures and algorithms;
 - CI/CD;
 - Agile, Kanban, Scrum, SAFe;
 
