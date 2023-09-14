@@ -13,7 +13,6 @@
 **I am open to new job opportunities as a web developer** (be it frontend, backend, or full-stack).
 
 ---
-[![CodeWars](https://www.codewars.com/users/dmlt/badges/large)](https://www.codewars.com/users/dmlt/)<br>
 [![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/matthewmonroe/)
 
 ### Web Technologies stack [September 2023]:
