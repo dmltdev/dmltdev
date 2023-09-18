@@ -2,6 +2,8 @@
 
 🌟 **Key Skills**: JavaScript, TypeScript, Sass, React, NodeJS
 
+🗣️ **Languages**: Ukrainian (native), English (advanced), Russian (advanced), Bulgarian (fundamental)
+
 🧠 **Personality**: INTJ-T, analytical thinking, strategic vision. [My dev philosophy](https://github.com/dmltdev/dmltdev/blob/main/dev_philosophy.md)
 
 📚 **Coding Challenges**: Check out my solutions on [LeetCode](https://leetcode.com/matthewmonroe/) and [Codewars](https://www.codewars.com/users/dmlt/).
