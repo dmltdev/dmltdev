@@ -21,6 +21,7 @@
 
 ## Code Readability
 
+* Style matters in programming for better reading.
 * Strive for code that is easy to read and understand.
 * Use meaningful variable and function names.
 * Follow a consistent coding style (e.g., indentation, naming conventions).
@@ -32,7 +33,7 @@
 
 ## Testing
 
-* Follow the principles of a test-driven development.
+* Follow the principles of test-driven development.
 
 ## Continuous Learning
 
