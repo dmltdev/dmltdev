@@ -37,14 +37,16 @@
 - Agile, Kanban, Scrum, SAFe;
 
 ### Experience & complementary skills:
-- Essential experience with PHP 8;
 - Extensive expertise in SSL/TLS, DNS, and Hosting;
+- Essential PHP 8;
 - Skilled in Adobe Photoshop, Illustrator, and Figma;
 - Strong ability in writing technical documentation and how-to guides;
+- Jira, Trello, Confluence, Notion, Slack;
+- documenting & replicating bugs;
 - Well-versed in cPanel, aaPanel, and WordPress;
-- Basic experience using AWS EC2 and Google Cloud Platform;
+- Basic usage of AWS EC2 and Google Cloud Platform;
 - Linux installation, setup, and management (primarily Ubuntu/Debian-based distros);
-- Essential experience with Docker
+- Essential Docker
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dmltdev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
