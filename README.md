@@ -2,7 +2,7 @@
 
 🌟 **Key Skills**: JavaScript, TypeScript, Sass, React, NodeJS
 
-🗣️ **Languages**: Ukrainian (native), English (advanced), Russian (advanced), Bulgarian (fundamental)
+🗣️ **Languages**: Ukrainian🇺🇦 (native), English🇬🇧 (advanced), Russian🇷🇺 (advanced), Bulgarian🇧🇬 (fundamental)
 
 🧠 **Personality**: INTJ-T, analytical thinking, strategic vision. [My dev philosophy](https://github.com/dmltdev/dmltdev/blob/main/dev_philosophy.md)
 
