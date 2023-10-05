@@ -1,6 +1,6 @@
-👋 Hi, I'm Dmytro — a Junior Frontend Developer with a passion for building clean, efficient, and well-tested code.
+👋 Hi, I'm Dmytro — a Junior Full-Stack Engineer with a passion for building clean, efficient, and well-tested code.
 
-🌟 **Key Skills**: JavaScript, TypeScript, Sass, React, NodeJS
+🌟 **Key Skills**: JavaScript, TypeScript, Golang, React.js, Node.js
 
 🗣️ **Languages**: Ukrainian🇺🇦 (native), English🇬🇧 (advanced), Russian🇷🇺 (advanced), Bulgarian🇧🇬 (fundamental)
 
@@ -22,7 +22,8 @@
 - Proficient in HTML5, CSS3 (with CSS BEM), Sass;
 - Strong JavaScript [ES6+];
 - Proficient TypeScript;
-- Basic React;
+- Basic React.js;
+- Beginner Golang;
 - Unit testing (Jest), API testing (Postman), benchmarking & optimizing performance;
 - Proficient in Git & GitHub; 
 - Experienced with REST APIs;
