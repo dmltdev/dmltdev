@@ -16,7 +16,7 @@
 **I am open to new job opportunities as a web developer** (be it frontend, backend, or full-stack).
 
 ---
-[![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/matthewmonroe/)
+[![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
 
 ### Web Technologies stack [September 2023]:
 - Proficient in HTML5, CSS3 (with CSS BEM), Sass;
