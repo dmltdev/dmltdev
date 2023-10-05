@@ -6,7 +6,7 @@
 
 🧠 **Personality**: INTJ-T, analytical thinking, strategic vision. [My dev philosophy](https://github.com/dmltdev/dmltdev/blob/main/dev_philosophy.md)
 
-📚 **Coding Challenges**: Check out my solutions on [LeetCode](https://leetcode.com/matthewmonroe/) and [Codewars](https://www.codewars.com/users/dmlt/).
+📚 **Coding Challenges**: Check out my solutions on [LeetCode](https://leetcode.com/dmltdev/) and [Codewars](https://www.codewars.com/users/dmlt/).
 
 📝 **Technical Documentation**: I specialize in writing clear and effective technical documentation and how-to guides.
 
@@ -16,7 +16,7 @@
 **I am open to new job opportunities as a web developer** (be it frontend, backend, or full-stack).
 
 ---
-[![LeetCode](https://leetcard.jacoblin.cool/matthewmonroe?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
+[![LeetCode](https://leetcard.jacoblin.cool/dmltdev?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
 
 ### Web Technologies stack [September 2023]:
 - Proficient in HTML5, CSS3 (with CSS BEM), Sass;
