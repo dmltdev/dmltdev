@@ -1,13 +1,21 @@
 👋 Hi, I'm Dmytro, a Full-Stack Web Developer passionate about crafting high-quality user-centered products through clean, efficient, and well-tested code.
 
 🤟 Robust command of JavaScript. Essential PHP, basic Golang.
+
 👨‍💻 Agile development with TypeScript, React, NodeJS, Bun, MySQL, MongoDB, Git, Github, and more.
+
 〰️ Continuously Integrate and Deliver with Github Actions.
+
 🧪 Test with TDD: Jest, Postman, Vitest, Puppeteer.
+
 🖥 Design with Photoshop, Figma, Illustrator, GIMP.
+
 🫂 Speak advanced English, Ukrainian, Russian, and basic Bulgarian.
+
 💭 Knowledge of Data Structures & Algorithms.
+
 🧠 Analytical INTJ-T with a strategic vision. Open-minded fast learner, adaptable and explorative. Consistent and persistent.
+
 💼 Experience with SSL/TLS, DNS, Hosting, Linux.
 
 I spend my free time on things like gym, yoga, dystopian & sci-fi books, manga, detective TV series. And surely with dogs🐾
