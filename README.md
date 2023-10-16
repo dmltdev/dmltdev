@@ -1,53 +1,20 @@
-👋 Hi, I'm Dmytro — a Junior Full-Stack Engineer with a passion for building clean, efficient, and well-tested code.
+👋 Hi, I'm Dmytro, a Full-Stack Web Developer passionate about crafting high-quality user-centered products through clean, efficient, and well-tested code.
 
-🌟 **Key Skills**: JavaScript, TypeScript, Golang, React.js, Node.js
+🤟 Robust command of JavaScript. Essential PHP, basic Golang.
+👨‍💻 Agile development with TypeScript, React, NodeJS, Bun, MySQL, MongoDB, Git, Github, and more.
+〰️ Continuously Integrate and Deliver with Github Actions.
+🧪 Test with TDD: Jest, Postman, Vitest, Puppeteer.
+🖥 Design with Photoshop, Figma, Illustrator, GIMP.
+🫂 Speak advanced English, Ukrainian, Russian, and basic Bulgarian.
+💭 Knowledge of Data Structures & Algorithms.
+🧠 Analytical INTJ-T with a strategic vision. Open-minded fast learner, adaptable and explorative. Consistent and persistent.
+💼 Experience with SSL/TLS, DNS, Hosting, Linux.
 
-🗣️ **Languages**: Ukrainian🇺🇦 (native), English🇬🇧 (advanced), Russian🇷🇺 (advanced), Bulgarian🇧🇬 (fundamental)
+I spend my free time on things like gym, yoga, dystopian & sci-fi books, manga, detective TV series. And surely with dogs🐾
 
-🧠 **Personality**: INTJ-T, analytical thinking, strategic vision. [My dev philosophy](https://github.com/dmltdev/dmltdev/blob/main/dev_philosophy.md)
+❗️ Open for web developer positions (EU, remote).
 
-📚 **Coding Challenges**: Check out my solutions on [LeetCode](https://leetcode.com/dmltdev/) and [Codewars](https://www.codewars.com/users/dmlt/).
-
-📝 **Technical Documentation**: I specialize in writing clear and effective technical documentation and how-to guides.
-
-
-🤙 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dmytro-lutsenko-ba86a322a/).
-
-**I am open to new job opportunities as a web developer** (be it frontend, backend, or full-stack).
-
----
 [![LeetCode](https://leetcard.jacoblin.cool/dmltdev?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
-
-### Web Technologies stack [September 2023]:
-- Proficient in HTML5, CSS3 (with CSS BEM), Sass;
-- Strong JavaScript [ES6+];
-- Proficient TypeScript;
-- Basic React.js;
-- Beginner Golang;
-- Unit testing (Jest), API testing (Postman), benchmarking & optimizing performance;
-- Proficient in Git & GitHub; 
-- Experienced with REST APIs;
-- Fundamental SQL;
-
-### Concepts, principles, philosophy, computer science:
-- Conventional commits & commitlinters;
-- Unix philosophy;
-- OOP, SOLID, DRY, KISS, YAGNI;
-- Data structures and algorithms;
-- CI/CD;
-- Agile, Kanban, Scrum, SAFe;
-
-### Experience & complementary skills:
-- Extensive expertise in SSL/TLS, DNS, and Hosting;
-- Essential PHP 8;
-- Skilled in Adobe Photoshop, Illustrator, and Figma;
-- Strong ability in writing technical documentation and how-to guides;
-- Jira, Trello, Confluence, Notion, Slack;
-- documenting & replicating bugs;
-- Well-versed in cPanel, aaPanel, and WordPress;
-- Basic usage of AWS EC2 and Google Cloud Platform;
-- Linux installation, setup, and management (primarily Ubuntu/Debian-based distros);
-- Essential Docker
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dmltdev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
