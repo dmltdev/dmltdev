@@ -20,7 +20,7 @@
 
 ⌛Love spending my free time reading dystopian and sci-fi books, manga, or watching detective series. 
 
-❗️ Open for web developer positions (EU, remote).
+❗️ Open for web developer positions (Bulgaria, remote).
 
 [![LeetCode](https://leetcard.jacoblin.cool/dmltdev?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
 
