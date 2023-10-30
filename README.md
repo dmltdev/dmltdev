@@ -6,7 +6,7 @@
 
 ♾️ Continuously Integrate and Deliver with GitHub Actions.
 
-🧪 Enjoy TDD and unit & E2E tests.
+🧪 Enjoy TDD and writing unit & E2E tests.
 
 ✨ Design with Photoshop, Figma, Illustrator, GIMP.
 
