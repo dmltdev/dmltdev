@@ -1,30 +1,17 @@
-👋 Hi, I'm Dmytro, a Junior Frontend Developer.
+Hi, I'm Dmytro, a Junior Frontend Developer | React, Typescript, NodeJS, PostgreSQL, MongoDB, GraphQL
 
-🧠 Adaptable and strategic learner with an open mind and persistent drive.
+I am an adaptable and strategic learner with an open mind and persistent drive. With a robust command of **JavaScript (TypeScript)**, I am developing mobile-first performant apps and websites.
+With a main focus on frontend web development, I am fluent in the **React** ecosystem and confidently adapt to any styling system, be it **SASS**, **CSS-in-JS**, or **CSS Modules**. As for the backend, my current stack includes **NodeJS**, **PostgreSQL**, **MongoDB**, and **GraphQL**.
 
-🤟 Robust command of JavaScript. Developing type-safe apps with TypeScript and JSDoc/TSDoc. 
+My work is rooted in Agile development, utilizing both **Scrum** and **Kanban** methodologies. I'm well-versed in **test-driven**, **behavior-driven**, and **domain-driven** development, employing tools like **Jest**, **Playwright**, and **React Testing Library** for unit/E2E tests, and **Postman** for API testing.
 
-👨🏻‍💻 Frontend: Fluent in the React ecosystem. Confidently using CSS3, SASS, styled-components and UI libraries such as Boostrap, Tailwind, Material, and Chakra.
+Leveraging Photoshop, Figma, Illustrator, and GIMP for my design work.
+Fluent in advanced **English, Ukrainian**, and **Russian**, and with elementary proficiency in **Bulgarian**, I can easily join a diverse environment.
 
-📦 Backend: NodeJS, PostgreSQL, MongoDB, GraphQL.
+Applied knowledge of **Data Structures, Algorithms**, and **Design Patterns**. Experienced with **Linux distros, CLI tools (openssl, curl, ssh)**, and such domains as **SSL/TLS**, **DNS**, and **Web Hosting**.
+You'll find me interested in spending my free time dog walking, doing gym, reading dystopian and sci-fi books or manga, or watching detective series. 
 
-👨‍💻 Agile development with the knowledge of Scrum and Kanban. Knowledge of test-driven/behavior-driven/domain-driven development.
-
-♾️ Use linters for meaningful, clean and consistent Git commits.
-
-🧪 Experience writing tests with Jest, Playwright, React Testing Library. API testing with Postman.
-
-✨ Design with Photoshop, Figma, Illustrator, GIMP.
-
-🗣 Speak advanced English, Ukrainian, Russian, and elementary Bulgarian.
-
-💡 Knowledge of Data Structures, Algorithms, Design Patterns.
-
-🐧 Experienced with Linux distros, CLI tools (openssl, curl, ssh, and others), SSL/TLS, DNS, and Web Hosting.
-
-⌛Love spending my free time reading dystopian and sci-fi books, manga, or watching detective series. 
-
-❗️ Open for web developer positions (Bulgaria, remote).
+❗Currently open to web developer opportunities, I am seeking roles in Bulgaria.
 
 [![LeetCode](https://leetcard.jacoblin.cool/dmltdev?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
 
