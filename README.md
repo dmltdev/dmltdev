@@ -1,11 +1,11 @@
 Hi, I'm Dmytro, a Junior Frontend Developer | React, Typescript, NodeJS, PostgreSQL, MongoDB, GraphQL
 
-I am an adaptable and strategic learner with an open mind and persistent drive. With a robust command of **JavaScript (TypeScript)**, I am developing mobile-first performant apps and websites.
+I am an adaptable and persistent learner. With a robust command of **JavaScript (TypeScript)**, I am developing mobile-first websites and applications.
 With a main focus on frontend web development, I am fluent in the **React** ecosystem and any styling system, be it **SASS**, **CSS-in-JS**, or **CSS Modules**. As for the backend, my current stack includes **NodeJS**, **PostgreSQL**, **MongoDB**, and **GraphQL**.
 
-My work is rooted in Agile development, utilizing both **Scrum** and **Kanban** methodologies. I'm well-versed in **test-driven**, **behavior-driven**, and **domain-driven** development, employing tools like **Jest**, **Playwright**, and **React Testing Library** for unit/E2E tests, and **Postman** for API testing.
+My work is rooted in Agile development, utilizing both **Scrum** and **Kanban** methodologies. I'm versed in **test-driven**, **behavior-driven**, and **domain-driven** development. Employing tools like **Jest**, **Playwright**, and **React Testing Library** for unit/E2E tests, and **Postman** for API testing.
 
-Leveraging Photoshop, Figma, Illustrator, and GIMP for my design work.
+Leveraging Figma, Photoshop, and Illustrator for my design work.
 Fluent in advanced **English, Ukrainian**, and **Russian**, and with elementary proficiency in **Bulgarian**, I can easily join a diverse environment.
 
 Applied knowledge of **Data Structures, Algorithms**, and **Design Patterns**. Experienced with **Linux distros, CLI tools (openssl, curl, ssh)**, and such domains as **SSL/TLS**, **DNS**, and **Web Hosting**.
