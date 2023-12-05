@@ -1,7 +1,7 @@
 Hi, I'm Dmytro, a Junior Frontend Developer | React, Typescript, NodeJS, PostgreSQL, MongoDB, GraphQL
 
 I am an adaptable and strategic learner with an open mind and persistent drive. With a robust command of **JavaScript (TypeScript)**, I am developing mobile-first performant apps and websites.
-With a main focus on frontend web development, I am fluent in the **React** ecosystem and confidently adapt to any styling system, be it **SASS**, **CSS-in-JS**, or **CSS Modules**. As for the backend, my current stack includes **NodeJS**, **PostgreSQL**, **MongoDB**, and **GraphQL**.
+With a main focus on frontend web development, I am fluent in the **React** ecosystem and any styling system, be it **SASS**, **CSS-in-JS**, or **CSS Modules**. As for the backend, my current stack includes **NodeJS**, **PostgreSQL**, **MongoDB**, and **GraphQL**.
 
 My work is rooted in Agile development, utilizing both **Scrum** and **Kanban** methodologies. I'm well-versed in **test-driven**, **behavior-driven**, and **domain-driven** development, employing tools like **Jest**, **Playwright**, and **React Testing Library** for unit/E2E tests, and **Postman** for API testing.
 
