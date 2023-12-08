@@ -11,7 +11,7 @@ Fluent in advanced **English, Ukrainian**, and **Russian**, and with elementary 
 Applied knowledge of **Data Structures, Algorithms**, and **Design Patterns**. Experienced with **Linux distros, CLI tools (openssl, curl, ssh)**, and such domains as **SSL/TLS**, **DNS**, and **Web Hosting**.
 You'll find me interested in spending my free time dog walking, doing gym, reading dystopian and sci-fi books or manga, or watching detective series. 
 
-❗Currently open to web developer opportunities, I am seeking roles in Bulgaria.
+❗Currently open to web developer opportunities in Bulgaria or EEA (remote).
 
 [![LeetCode](https://leetcard.jacoblin.cool/dmltdev?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
 
