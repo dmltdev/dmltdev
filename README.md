@@ -1,4 +1,4 @@
-Hi, I'm Dmytro, a Full-Stack Web Developer | Typescript, React, NodeJS
+Hi, I'm Dmytro, a Full-Stack Web Developer | TypeScript, React, NodeJS
 
 - Programming languages: TypeScript (main), Python, Golang
 - Frontend: JavaScript, React, Redux
