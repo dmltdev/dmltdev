@@ -1,8 +1,9 @@
 Hi, I'm Dmytro, a Full-Stack Web Developer | TypeScript, React, NodeJS
 
-- Programming languages: TypeScript (main), Python, Golang
+- Programming languages: TypeScript (main), Python, Golang, C++
 - Frontend: JavaScript, React, Redux
-- Backend: NodeJS, Express, PostgreSQL
+- Backend: NodeJS with Express
+- Databases: PostgreSQL
 - Type-safety: JSDoc/TSDoc, TypeScript
 - Computer Science: applied knowledge of Data Structures, Algorithms, and Design Patterns
 - Knowledge of Agile methodologies (Scrum & Kanban)
