@@ -10,6 +10,5 @@ Hi, I'm Dmytro, a Full-Stack Web Developer | TypeScript, React, NodeJS
 - Testing: unit (Jest), E2E (Playwright), API (Postman)
 - Design: Figma, Photoshop, Illustrator
 - Experienced with Linux distros and CLI
-- Spending my free time dog walking, doing gym, reading dystopian and sci-fi books or manga, or watching detective series
 
 [![LeetCode](https://leetcard.jacoblin.cool/dmltdev?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
