@@ -1,13 +1,13 @@
-Hi, I'm Dmytro, a Full-Stack Web Developer | TypeScript, React, NodeJS
+Hi, I'm Dmytro, a Full-Stack Web Developer.
 
-- Programming languages: TypeScript (main), Python and PHP (essential), and a bit of Golang and C++.
-- Frontend: JavaScript, React, Redux
+- Programming languages: TypeScript (main), Python, and PHP (essential). Also learning Golang and C++.
+- Frontend: React, Redux, React Router, Next.js
 - Backend: NodeJS with Express
 - Databases: PostgreSQL
-- Type-safety: JSDoc/TSDoc, TypeScript
+- Code Documentation & Type-Safety: JSDoc/TSDoc, TypeScript
 - Computer Science: applied knowledge of Data Structures, Algorithms, and Design Patterns
 - Knowledge of Agile methodologies (Scrum & Kanban)
-- Testing: unit (Jest), E2E (Playwright), API (Postman)
+- Testing: unit (Jest), E2E (Playwright, Puppeteer), API (Postman)
 - Design: Figma, Photoshop, Illustrator
 - Experienced with Linux distros and CLI
 
