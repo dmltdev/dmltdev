@@ -4,6 +4,7 @@ Hi, I'm Dmytro, a Full-Stack Web Developer.
 - Frontend: React, Redux, React Router, Next.js
 - Backend: NodeJS with Express
 - Databases: PostgreSQL
+- Infra: AWS EC2, GCP, Vercel, Cloudflare R2
 - Code Documentation & Type-Safety: JSDoc/TSDoc, TypeScript
 - Computer Science: applied knowledge of Data Structures, Algorithms, and Design Patterns
 - Knowledge of Agile methodologies (Scrum & Kanban)
