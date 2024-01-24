@@ -1,6 +1,6 @@
 Hi, I'm Dmytro, a Full-Stack Web Developer.
 
-- Programming languages: TypeScript (main), Python, and PHP (essential). Also learning Golang and C++.
+- Programming languages: TypeScript (main), Python, and PHP. Also learning Golang.
 - Frontend: React, Redux, React Router, Next.js
 - Backend: NodeJS with Express
 - Databases: PostgreSQL
