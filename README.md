@@ -1,15 +1,16 @@
 Hi, I'm Dmytro, a Full-Stack Web Developer.
 
-- Programming languages: TypeScript (main), Python, and PHP. Also learning Golang.
-- Frontend: React, Redux, React Router, Next.js
-- Backend: NodeJS with Express
-- Databases: PostgreSQL
-- Infra: Vercel, Cloudflare R2
-- Code Documentation & Type-Safety: JSDoc/TSDoc, TypeScript
-- Computer Science: applied knowledge of Data Structures, Algorithms, and Design Patterns
-- Knowledge of Agile methodologies (Scrum & Kanban)
-- Testing: unit (Jest), E2E (Playwright, Puppeteer), API (Postman)
+- Language-agnostic: TypeScript (main), PHP, Python, Golang
+- Frontend: React, Redux, NextJS
+- Backend: NodeJS (with Express)
+- Database: Postgres (with Prisma ORM)
+- Infrastructure: AWS EC2, Vercel, Cloudflare R2
+- Code Documentation: JSDoc/TSDoc
+- Computer Science: Data Structures, Algorithms, Design Patterns
+- Agile: Scrum, Kanban
+- Testing: Jest, Playwright, Puppeteer, Postman
 - Design: Figma, Photoshop, Illustrator
-- Experienced with Linux distros and CLI
+- CI/CD: Github Actions, Ansible, Docker
+- Linux: Ubuntu, Debian, CentOS
 
 [![LeetCode](https://leetcard.jacoblin.cool/dmltdev?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
