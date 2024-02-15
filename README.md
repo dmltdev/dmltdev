@@ -15,7 +15,7 @@ Hi, I'm Dmytro, a Full-Stack Web Developer.
 - CI/CD: Github Actions, Ansible, Docker
 - Linux: Ubuntu, Debian, CentOS
 
-## I am skilled particularly in:
+## Primary Skillset:
 - creating responsive UI using CSS/SCSS or libs (Bootstrap, Tailwind, Styled Components, Chakra, shadcn/ui)
 - localizing websites (with i18n)
 - creating RESTful APIs
