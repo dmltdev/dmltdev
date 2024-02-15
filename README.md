@@ -1,8 +1,8 @@
 Hi, I'm Dmytro, a Full-Stack Web Developer.
 
 - Language-agnostic: TypeScript (main), PHP, Python, Golang
-- Frontend: React, Redux, NextJS
-- Backend: NodeJS (with Express)
+- Frontend: React, NextJS, HTMX
+- Backend: NodeJS with Express, Bun
 - Database: Postgres (with Prisma ORM)
 - Infrastructure: AWS EC2, Vercel, Cloudflare R2
 - Code Documentation: JSDoc/TSDoc
