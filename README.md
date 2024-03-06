@@ -16,12 +16,12 @@ Hi, I'm Dmytro, a Full-Stack Web Developer.
 - Linux: Ubuntu, Debian, CentOS
 
 ## Primary Skillset:
-- creating responsive UI using CSS/SCSS or libs (Bootstrap, Tailwind, Styled Components, Chakra, shadcn/ui)
-- localizing websites (with i18n)
-- creating RESTful APIs
-- using SSG to create templated HTML (11ty, Nunjucks, Pug).
-- building SPAs (React, React Router, Redux)
-- authorization techniques (JWT, bcrypt, OAuth)
-- simple animations with CSS3 and JS or libs (wow.js, framer-motion, gsap)
+- Creating responsive UI
+- Website Localization and SEO
+- Creating RESTful APIs
+- Using SSG to create templated HTML (11ty, Nunjucks, Pug).
+- Building SPAs with React
+- Experience with authorization tools (JWT, bcrypt, OAuth)
+- Creating website animations
 
 [![LeetCode](https://leetcard.jacoblin.cool/dmltdev?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
