@@ -1,4 +1,4 @@
-Hi, I'm Dmytro, a Full-Stack Web Developer.
+Hi, I'm Dmytro, a full-stack web developer.
 
 ## Knowledge & Experience
 
