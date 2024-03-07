@@ -23,5 +23,3 @@ Hi, I'm Dmytro, a full-stack web developer.
 - Building SPAs with React
 - Experience with authorization tools (JWT, bcrypt, OAuth)
 - Creating website animations
-
-[![LeetCode](https://leetcard.jacoblin.cool/dmltdev?theme=nord&font=Fira%20Code)](https://leetcode.com/dmltdev/)
