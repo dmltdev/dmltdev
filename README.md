@@ -7,6 +7,7 @@ Hi, I'm Dmytro, a full-stack web developer.
 - Backend: NodeJS + Express.
 - Database: PostgreSQL (with Prisma ORM), Redis.
 - Documentation: JSDoc, TSDoc, Typedoc.
+- Type-safety at runtime with Zod.
 - Computer Science: Data Structures, Algorithms, Design Patterns.
 - Agile, Scrum, Kanban.
 - SOLID, OOP, Functional Programming.
