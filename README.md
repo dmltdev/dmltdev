@@ -1,4 +1,4 @@
-Hello! I'm Dmytro, a full-stack web developer with a fondness for bringing to life secure, performant, beautiful, and user-centered web applications as carefully as a blacksmith forges a fine sword. 
+Hello! I'm Dmytro, a full-stack web developer with a fondness for bringing to life secure, performant, beautiful, and user-centered web applications. 
 
 I work with a variety of programming languages (Javascript, PHP, Python, Golang), but TypeScript is where I feel confident.
 On the frontend, I primarily use React and Nextjs for my projects. I also have some essential experience building sites with jQuery and HTMX.
