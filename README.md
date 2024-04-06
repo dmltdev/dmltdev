@@ -14,5 +14,5 @@ I believe in following the rules of computer science, using agile project manage
 – Computer science: Object-Oriented Programming (OOP), Functional Programming, Data Structures, Algorithms, Design Patterns, and CPU architecture.
 - Linux: CentOS, Ubuntu, and Debian.
 - Git, Git Hub, and Git Flow.
-- GitHub Actions, Ansible, and Docker for CI/CD.
+- GitHub Actions, and Docker.
 - HTTP, SSL, SSH, SFTP, DNS, and curl.
