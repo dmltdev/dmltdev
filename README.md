@@ -1,37 +1,18 @@
-Hello! I'm Dmytro, a full-stack web developer with a fondness for bringing to life secure, performant, beautiful, and user-centered web applications. 
+Hey there! That's me, Dmytro. I'm a team lead at Ontech.
 
-I work with a variety of programming languages (Javascript, PHP, Python, Golang), but TypeScript is where I feel confident.
-On the frontend, I primarily use React and Nextjs for my projects. I also have some essential experience building sites with jQuery and HTMX.
-As for the backend, my toolkit includes NodeJS and Express. I enjoy organizing data with PostgreSQL and Redis and using tools like Prisma ORM to keep everything running smoothly.
+My experience in the industry has led me to work across various programming languages, but I really like TypeScript. 
+I use React and Next.js on the front end to make user interfaces that are easy to understand.
+I know how to use NodeJS and Express to build services and PostgreSQL and Redis to manage data on the back end. 
+I believe in following the rules of computer science, using agile project management methods, and testing web apps to make sure they work well and are reliable.
 
-I've got a solid grip on the essentials of Computer Science, from algorithms to design patterns, and I'm agile in both my workflow and project management, thanks to Scrum and Kanban.
-I'm all about making things work well and look good, so I spend time with documentation tools like JSDoc, and I keep my code sturdy with type safety at runtime using Zod.
-Testing is another important part of my process, and I'm adept with tools like Jest, Playwright, and Puppeteer, not to mention Postman for testing APIs.
-
-## Knowledge & Experience
-
-- Language-agnostic: TypeScript (main), PHP. Fundamental knowledge of Python and Golang.
-- Frontend: React, NextJS, HTMX, jQuery.
-- Backend: NodeJS + Express.
-- Database: PostgreSQL (with Prisma ORM), Redis.
-- Docs: JSDoc, TSDoc, Typedoc.
-- Type-safety at runtime with Zod.
-- Computer Science: Data Structures, Algorithms, Design Patterns.
-- Agile, Scrum, Kanban. SOLID, OOP, Functional Programming.
-- Testing: Jest, Playwright, Puppeteer, Postman.
-- Design: Figma, Photoshop, Illustrator.
-- Git, Github, Git Flow. Commitlinting, writing descriptive PRs. Experience composing code reviews.
-- CI/CD: GitHub Actions, Ansible, Docker.
-- Linux: Ubuntu, Debian, CentOS.
-- Experience with storage management, logging, auth, SSG, web animations, etc.
-- Knowledge of DNS, Web Hosting, SSL, SSH, SFTP, and curl.
-- Experience with many hosting providers, and different server types.
-- Experience working as a technical support engineer in the web hosting industry (see my LinkedIn).
-- Linux server setup and troubleshooting.
-
-## Primary Skillset:
-- Website Localization, SEO, Responsiveness, Accessibility.
-- Building RESTful and secure APIs.
-- Creating Single Page Applications (SPAs) with React.
-- Creating complex websites with Next.js.
-- Creating landing pages using jQuery, TailwindCSS/SCSS.
+- Typescript (main), PHP, and Python.
+- Frontend: React, Nextjs, and jQuery.
+- Backend: NodeJS, and Express.
+- Experienced with databases: PostgreSQL as a relational data storage, Redis for caching and task queuing.
+- Agile: practical application of Kanban, essential understanding of Scrum.
+- Testing: Jest, Playwright, Vitest, Puppeteer, Postman.
+– Computer science: Object-Oriented Programming (OOP), Functional Programming, Data Structures, Algorithms, Design Patterns, and CPU architecture.
+- Linux: CentOS, Ubuntu, and Debian.
+- Git, Git Hub, and Git Flow.
+- GitHub Actions, Ansible, and Docker for CI/CD.
+- HTTP, SSL, SSH, SFTP, DNS, and curl.
