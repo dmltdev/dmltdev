@@ -11,7 +11,7 @@ I believe in following the rules of computer science, using agile project manage
 - Experienced with databases: PostgreSQL as a relational data storage, Redis for caching and task queuing.
 - Agile: practical application of Kanban, essential understanding of Scrum.
 - Testing: Jest, Playwright, Vitest, Puppeteer, Postman.
-– Computer science: Object-Oriented Programming (OOP), Functional Programming, Data Structures, Algorithms, Design Patterns, and CPU architecture.
+- Computer science: Object-Oriented Programming (OOP), Functional Programming, Data Structures, Algorithms, Design Patterns, and CPU architecture.
 - Linux: CentOS, Ubuntu, and Debian.
 - Git, Git Hub, and Git Flow.
 - GitHub Actions, and Docker.
