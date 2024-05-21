@@ -1,4 +1,4 @@
-Hey there! I'm an engineering leader at Ontech.
+Hey there! I'm an engineering lead at Ontech.
 
 My experience in the industry has led me to work across various programming languages, but I really like TypeScript. 
 I use React and Next.js on the front end to make user interfaces that are easy to understand.
