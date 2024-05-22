@@ -1,18 +1,16 @@
 Hey there! I'm an engineering lead at Ontech.
 
-My experience in the industry has led me to work across various programming languages, but I really like TypeScript. 
-I use React and Next.js on the front end to make user interfaces that are easy to understand.
-I know how to use NodeJS and Express to build services and PostgreSQL and Redis to manage data on the back end. 
 I believe in following the rules of computer science, using agile project management methods, and testing web apps to make sure they work well and are reliable.
 
 - Typescript (main), PHP, and Python.
 - Frontend: React, Nextjs, and jQuery.
 - Backend: NodeJS, and Express.
-- Experienced with databases: PostgreSQL as a relational data storage, Redis for caching and task queuing.
-- Agile: practical application of Kanban, essential understanding of Scrum.
-- Testing: Jest, Playwright, Vitest, Puppeteer, Postman.
-- Computer science: Object-Oriented Programming (OOP), Functional Programming, Data Structures, Algorithms, Design Patterns, and CPU architecture.
-- Linux: CentOS, Ubuntu, and Debian.
-- Git, Git Hub, and Git Flow.
+- Database management: PostgreSQL, Redis.
+- Agile: practical application and integration of Kanban in the teams.
+- Testing: Jest, Playwright, Vitest, Puppeteer, Postman. Unit testing, API testing, stress testing, integration testing.
+- Computer science: Object-Oriented Programming (OOP), Functional Programming, Data Structures, Algorithms, Design Patterns.
+- Linux: CentOS, Ubuntu, and Debian. Deploying and runnins Javascript apps, logging errors and user actions to monitor performance and track issues.
+- Git, GitHub, and Git Flow.
 - GitHub Actions, and Docker.
-- HTTP, SSL, SSH, SFTP, DNS, and curl.
+- Team management. Holding meetings and lectures. Making performance reviews, code reviews. Onboarding and hiring newbies.
+- Organizaiton-wide management: finances, client communication, risk management. 
