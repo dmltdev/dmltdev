@@ -1,4 +1,4 @@
-Hey there! I'm an engineering lead at Ontech.
+Hey there!
 
 I believe in following the rules of computer science, using agile project management methods, and testing web apps to make sure they work well and are reliable.
 
