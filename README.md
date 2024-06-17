@@ -10,7 +10,6 @@ Skills:
 - Client communication, contract negotation, requirements gathering.
 - Agile: practical application and integration of Kanban.
 - Team management: hiring and mentoring junior developers, composing code reviews, holding lectures.
-- Linux user: Nginx, Bash scripting, crontab, systemctl, etc.
+- Linux: Nginx, Bash scripting, crontab, systemctl, etc.
 - CI/CD: Github Actions, Docker, podman.
-- Object-oriented Programming, Functional Programming, Procedural Programming.
-- Data Structures and Algorithms, Design Patterns.
+- Computer science: Object-oriented Programming, Functional Programming, Procedural Programming, Data Structures and Algorithms, Design Patterns.I
