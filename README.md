@@ -1,16 +1,16 @@
-Hey there!
+I follow the rules of computer science, use agile project management methods, and strive to test web apps to make sure they work well and are reliable.
 
-I believe in following the rules of computer science, using agile project management methods, and testing web apps to make sure they work well and are reliable.
-
-- Typescript (main), PHP, and Python.
-- Frontend: React, Nextjs, and jQuery.
-- Backend: NodeJS, and Express.
-- Database management: PostgreSQL, Redis.
-- Agile: practical application and integration of Kanban in the teams.
-- Testing: Jest, Playwright, Vitest, Puppeteer, Postman. Unit testing, API testing, stress testing, integration testing.
-- Computer science: Object-Oriented Programming (OOP), Functional Programming, Data Structures, Algorithms, Design Patterns.
-- Linux: CentOS, Ubuntu, and Debian. Deploying and runnins Javascript apps, logging errors and user actions to monitor performance and track issues.
-- Git, GitHub, and Git Flow.
-- GitHub Actions, and Docker.
-- Team management. Holding meetings and lectures. Making performance reviews, code reviews. Onboarding and hiring newbies.
-- Organizaiton-wide management: finances, client communication, risk management. 
+Skills:
+- JavaScript, TypeScript.
+- React: Redux, React Router, Next.js, Vite, i18n.
+- Node.js: Express, Passport.js, Winston.
+- Testing: Jest, Puppeteer, Playwright, Postman, HTTPie.
+- PostgreSQL, Redis, Prisma ORM. Conforming to RESTful API style.
+- Python: aiogram, Slack SDK.
+- Client communication, contract negotation, requirements gathering.
+- Agile: practical application and integration of Kanban.
+- Team management: hiring and mentoring junior developers, composing code reviews, holding lectures.
+- Linux user: Nginx, Bash scripting, crontab, systemctl, etc.
+- CI/CD: Github Actions, Docker, podman.
+- Object-oriented Programming, Functional Programming, Procedural Programming.
+- Data Structures and Algorithms, Design Patterns.
