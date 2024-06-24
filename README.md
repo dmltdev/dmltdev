@@ -1,15 +1,11 @@
-I follow the rules of computer science, use agile project management methods, and strive to test web apps to make sure they work well and are reliable.
+  I follow the rules of computer science, use agile methods, and test apps to ensire their reliability and quality.
 
-Skills:
-- JavaScript, TypeScript.
-- React: Redux, React Router, Next.js, Vite, i18n.
-- Node.js: Express, Passport.js, Winston.
-- Testing: Jest, Puppeteer, Playwright, Postman, HTTPie.
-- PostgreSQL, Redis, Prisma ORM. Conforming to RESTful API style.
-- Python: aiogram, Slack SDK.
-- Client communication, contract negotation, requirements gathering.
-- Agile: practical application and integration of Kanban.
-- Team management: hiring and mentoring junior developers, composing code reviews, holding lectures.
-- Linux: Nginx, Bash scripting, crontab, systemctl, etc.
-- CI/CD: Github Actions, Docker, podman.
-- Computer science: Object-oriented Programming, Functional Programming, Procedural Programming, Data Structures and Algorithms, Design Patterns.I
+Skills
+• JavaScript: Primary programming language
+• React.js: Redux, React Router, Next.js, Remix
+• Node.js: Express.js, Passport.js, Winston.js, nodecron, nodemailer
+• Testing: Jest, Puppeteer, Playwright, Postman, HTTPie
+• Databases: PostgreSQL, SQLite, Airtable
+• Agile: Practical application and integration of Kanban
+• Team management: Hiring and mentoring, composing code reviews
+• Linux: Nginx, Bash scripting
