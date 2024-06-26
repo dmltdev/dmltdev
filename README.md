@@ -1,4 +1,4 @@
-I follow the rules of computer science, use agile methods, and test apps to ensire their reliability and quality.
+I follow the rules of computer science, use agile methods, and test apps to ensure I deliver a working and qualitative software.
 
 ## Skills
 
