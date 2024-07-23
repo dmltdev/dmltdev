@@ -3,7 +3,7 @@ I follow the rules of computer science, use agile methods, and test apps to ensu
 ## Skills
 
 - JavaScript: Primary programming language
-- React.js: Redux, React Router, React Query, Next.js, Remix
+- React.js: Redux, React Router, React Query, Next.js
 - Node.js: Nest.js, Express.js, Passport.js, Winston.js
 - Testing: Jest, Puppeteer, Playwright, Postman, HTTPie
 - Databases: PostgreSQL, SQLite
