@@ -4,7 +4,7 @@ I follow the rules of computer science, use agile methods, and test apps to ensu
 
 - JavaScript: Primary programming language
 - React.js: Redux, React Router, React Query, Next.js, Remix
-- Node.js: Express.js, Passport.js, Winston.js, nodecron, nodemailer
+- Node.js: Nest.js, Express.js, Passport.js, Winston.js
 - Testing: Jest, Puppeteer, Playwright, Postman, HTTPie
 - Databases: PostgreSQL, SQLite
 - Agile: Practical application and integration of Kanban
