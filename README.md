@@ -1,8 +1,8 @@
-I follow the rules of computer science, use agile methods, and test apps to ensure I deliver a working and qualitative software.
+I follow the rules of computer science, use agile methods, utilize design patterns, and test apps to ensure I deliver working and qualitative software.
 
 ## Skills
 
-- JavaScript: Primary programming language
+- JavaScript (primary): jQuery, Zod, RxJS
 - React.js: Redux, React Router, React Query, Next.js
 - Node.js: Nest.js, Express.js, Passport.js, Winston.js
 - Testing: Jest, Puppeteer, Playwright, Postman, HTTPie
