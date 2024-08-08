@@ -3,7 +3,7 @@ I follow the rules of computer science, use agile methods, utilize design patter
 ## Skills
 
 - JavaScript (primary): jQuery, Zod, RxJS
-- React.js: Redux, React Router, React Query, Next.js
+- React.js: Redux, React Router, React Query, SWR, Next.js
 - Node.js: Nest.js, Express.js, Passport.js, Winston.js
 - Testing: Jest, Puppeteer, Playwright, Postman, HTTPie
 - Databases: PostgreSQL, SQLite, GraphQL
