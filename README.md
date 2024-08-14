@@ -6,7 +6,7 @@ I follow the rules of computer science, use agile methods, utilize design patter
 - React.js: Redux, React Router, React Query, SWR, Next.js
 - Node.js: Nest.js, Express.js, Passport.js, Winston.js
 - Testing: Jest, Puppeteer, Playwright, Postman, HTTPie
-- Databases: PostgreSQL, SQLite, GraphQL
+- Databases: PostgreSQL, SQLite, GraphQL, Redis
+- Linux & DevOps: Docker, Nginx, Bash scripting
 - Agile: Practical application and integration of Kanban
 - Team management: Hiring and mentoring, composing code reviews
-- Linux: Nginx, Bash scripting
