@@ -5,7 +5,7 @@ I follow the rules of computer science, use agile methods, utilize design patter
 - JavaScript (primary): jQuery, Zod, RxJS
 - React.js: Redux, React Router, React Query, SWR, Next.js
 - Node.js: Nest.js, Express.js, Passport.js, Winston.js
-- Testing: Jest, Puppeteer, Playwright, Postman, HTTPie
+- Testing: Jest, Puppeteer, Playwright, Postman, HTTPie, JMeter
 - Databases: PostgreSQL, SQLite, GraphQL, Redis
 - Linux & DevOps: Bash scripting, Docker, Grafana
 - Servers: Nginx, Apache, Caddy
