@@ -1,16 +1,13 @@
-Hey there!
+As a dedicated software engineer, I follow the rules of computer science and use agile methods to ensure I deliver a working and qualitative software.
 
-I believe in following the rules of computer science, using agile project management methods, and testing web apps to make sure they work well and are reliable.
+## Skills
 
-- Typescript (main), PHP, and Python.
-- Frontend: React, Nextjs, and jQuery.
-- Backend: NodeJS, and Express.
-- Database management: PostgreSQL, Redis.
-- Agile: practical application and integration of Kanban in the teams.
-- Testing: Jest, Playwright, Vitest, Puppeteer, Postman. Unit testing, API testing, stress testing, integration testing.
-- Computer science: Object-Oriented Programming (OOP), Functional Programming, Data Structures, Algorithms, Design Patterns.
-- Linux: CentOS, Ubuntu, and Debian. Deploying and runnins Javascript apps, logging errors and user actions to monitor performance and track issues.
-- Git, GitHub, and Git Flow.
-- GitHub Actions, and Docker.
-- Team management. Holding meetings and lectures. Making performance reviews, code reviews. Onboarding and hiring newbies.
-- Organizaiton-wide management: finances, client communication, risk management. 
+- JavaScript and TypeScript (primary).
+- React.js, Next.js. Redux, MobX, React Query, SWR, shadcn/ui.
+- Svelte, Sveltekit.
+- Node.js: Express.js, Passport.js, Winston.js.
+- Testing: Jest, Puppeteer, Playwright, Postman, HTTPie.
+- Databases: PostgreSQL, SQLite, GraphQL, Redis.
+- Linux & DevOps: Bash scripting, Docker, Grafana, Nginx.
+- Agile: Practical application and integration of Kanban.
+- Team management: Hiring and mentoring, composing code reviews.
