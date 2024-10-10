@@ -2,15 +2,25 @@
 
 ## Skills
 
-- JavaScript and TypeScript (primary).
-- React.js, Next.js. Redux, MobX, React Query, SWR, shadcn/ui.
-- Svelte, Sveltekit.
-- Node.js: Express.js, Passport.js, Winston.js.
-- Testing: Jest, Puppeteer, Playwright, Postman, HTTPie.
-- Databases: PostgreSQL, SQLite, GraphQL, Redis.
-- Linux & DevOps: Bash scripting, Docker, Grafana, Nginx.
-- Agile: Practical application and integration of Kanban.
-- Team management: Hiring and mentoring, composing code reviews.
+### <span style="color:dodgerblue">Languages & Frameworks</span>
+- **JavaScript** and **TypeScript** (Primary)
+- **React.js**, **Next.js**, **Redux**, **MobX**, **React Query**, **SWR**, **shadcn/ui**
+- **Svelte**, **SvelteKit**
+- **Node.js**: **Express.js**, **Passport.js**, **Winston.js**
+
+### <span style="color:dodgerblue">Testing & Tools</span>
+- **Jest**, **Puppeteer**, **Playwright**, **Postman**, **HTTPie**
+
+### <span style="color:dodgerblue">Databases</span>
+- **PostgreSQL**, **SQLite**, **GraphQL**, **Redis**
+
+### <span style="color:dodgerblue">Linux & DevOps</span>
+- **Bash scripting**, **Docker**, **Grafana**, **Nginx**
+
+### <span style="color:dodgerblue">Agile & Management</span>
+- **Agile**: Practical application and integration of Kanban
+- **Team management**: Hiring, mentoring, composing code reviews
+
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
