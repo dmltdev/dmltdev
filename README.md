@@ -1,4 +1,4 @@
-As a dedicated software engineer, I follow the rules of computer science and use agile methods to ensure I deliver a working and qualitative software.
+> The strength of JavaScript is that you can do anything. The weakness is that you will.
 
 ## Skills
 
@@ -11,3 +11,7 @@ As a dedicated software engineer, I follow the rules of computer science and use
 - Linux & DevOps: Bash scripting, Docker, Grafana, Nginx.
 - Agile: Practical application and integration of Kanban.
 - Team management: Hiring and mentoring, composing code reviews.
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
