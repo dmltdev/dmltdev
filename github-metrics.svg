@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Software Engineer | JavaScript, Python, Golang</div>
+                        <div class="introduction">Software Engineer | JavaScript, Golang</div>
                     </section>
                 </div>
             </section>
@@ -1920,7 +1920,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2024, 13:04:55 (timezone Europe/Sofia) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2024, 14:08:31 (timezone Europe/Sofia) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
